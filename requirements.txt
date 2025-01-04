@@ -78,3 +78,12 @@ urllib3==2.1.0 ; python_full_version >= "3.8.16"
 virtualenv==20.24.7 ; python_full_version >= "3.8.16"
 wcwidth==0.2.12 ; python_full_version >= "3.8.16"
 zipp==3.17.0 ; python_full_version >= "3.8.16"
+ipykernel
+ipympl
+ipython
+ipywidgets
+matplotlib
+numpy
+scikit-learn
+seaborn
+xlrd
